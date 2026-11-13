@@ -1,0 +1,81 @@
+{
+  "users": {
+    "1": "hocsinh01",
+    "3": "123",
+    "5": "tea"
+  },
+  "progress": {
+    "1": {
+      "user_id": "1",
+      "user_name": "Lê Thị Thu Trà",
+      "score": 860,
+      "completed": [
+        "Bến Nhà Rồng",
+        "Hương Cảng",
+        "Hang Pác Bó",
+        "Quảng trường Ba Đình",
+        "Lòng chảo Điện Biên Phủ"
+      ],
+      "max_year": 1975,
+      "task4": {}
+    },
+    "3": {
+      "user_id": "3",
+      "user_name": "L e Tra",
+      "score": 800,
+      "completed": [
+        "Bến Nhà Rồng",
+        "Hương Cảng",
+        "Hang Pác Bó",
+        "Quảng trường Ba Đình"
+      ],
+      "max_year": 1954,
+      "task4": {}
+    },
+    "5": {
+      "user_id": "5",
+      "user_name": "Lee Tea",
+      "score": 60,
+      "completed": [
+        "Bến Nhà Rồng",
+        "Hương Cảng"
+      ],
+      "max_year": 1931,
+      "task4": {}
+    },
+    "tea": {
+      "user_id": "tea",
+      "user_name": "Lê Thị Thu Trà",
+      "score": 0,
+      "completed": [
+        "Pác Bó (Cao Bằng)"
+      ],
+      "max_year": 1911,
+      "task4": {
+        "additionalProp1": {}
+      }
+    }
+  },
+  "leaderboard": [
+    {
+      "user_id": "1",
+      "user_name": "Lê Thị Thu Trà",
+      "score": 860
+    },
+    {
+      "user_id": "3",
+      "user_name": "L e Tra",
+      "score": 800
+    },
+    {
+      "user_id": "5",
+      "user_name": "Lee Tea",
+      "score": 60
+    },
+    {
+      "user_id": "tea",
+      "user_name": "Lê Thị Thu Trà",
+      "score": 0
+    }
+  ]
+}

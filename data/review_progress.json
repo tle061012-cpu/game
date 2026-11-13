@@ -1,0 +1,120 @@
+{
+  "sample_1911": {
+    "id": "sample_1911",
+    "location_name": "Bến Nhà Rồng",
+    "question": "Nguyễn Tất Thành ra đi tìm đường cứu nước trên con tàu nào?",
+    "options": [
+      "Tàu Amiral Latouche-Tréville",
+      "Tàu Đô đốc Courbet",
+      "Tàu D'Assas",
+      "Tàu La Grandière"
+    ],
+    "correct_index": 0,
+    "user_choice": 1,
+    "explanation": "Ngày 5/6/1911, Người rời bến cảng Nhà Rồng trên tàu buôn Đô đốc Latouche-Tréville với tên gọi Văn Ba.",
+    "source_title": "Đại cương Lịch sử Việt Nam (Tập 2)",
+    "source_author": "Đinh Xuân Lâm (Chủ biên)",
+    "source_publisher": "NXB Giáo dục Việt Nam",
+    "source_citation": "Chương 4: Phong trào yêu nước đầu thế kỷ XX, Tr. 182-185",
+    "status": "PENDING",
+    "retry_count": 1
+  },
+  "sample_1930": {
+    "id": "sample_1930",
+    "location_name": "Hương Cảng",
+    "question": "Hội nghị hợp nhất thành lập Đảng Cộng sản Việt Nam thông qua văn kiện nòng cốt nào?",
+    "options": [
+      "Chính cương vắn tắt, Sách lược vắn tắt",
+      "Luận cương chính trị tháng 10",
+      "Tuyên ngôn Độc lập",
+      "Kháng chiến nhất định thắng lợi"
+    ],
+    "correct_index": 0,
+    "user_choice": 1,
+    "explanation": "Hội nghị thành lập Đảng đầu năm 1930 đã thông qua Chính cương vắn tắt và Sách lược vắn tắt do Nguyễn Ái Quốc soạn thảo.",
+    "source_title": "Văn kiện Đảng Toàn tập (Tập 2)",
+    "source_author": "Ban Chấp hành Trung ương Đảng",
+    "source_publisher": "NXB Chính trị Quốc gia Sự thật",
+    "source_citation": "Văn kiện Hội nghị hợp nhất ngày 3/2/1930, Tr. 1-15",
+    "status": "PENDING",
+    "retry_count": 1
+  },
+  "test_q_1975": {
+    "id": "test_q_1975",
+    "location_name": "Dinh Độc Lập",
+    "question": "Chiến dịch Hồ Chí Minh toàn thắng ngày nào?",
+    "options": [
+      "30/04/1975",
+      "01/05/1975"
+    ],
+    "correct_index": 0,
+    "user_choice": 1,
+    "explanation": "30/4/1975 xe tăng húc đổ cổng Dinh.",
+    "source_title": "Tổng hành dinh trong Mùa Xuân toàn thắng",
+    "source_author": "Đại tướng Võ Nguyên Giáp",
+    "source_publisher": "NXB Chính trị Quốc gia",
+    "source_citation": "Chương 5, Tr. 320",
+    "status": "MASTERED",
+    "retry_count": 13
+  },
+  "pacbo_q2": {
+    "id": "pacbo_q2",
+    "location_name": "Hang Pác Bó (1941)",
+    "question": "Hội nghị Trung ương 8 họp vào tháng nào?",
+    "options": [
+      "1/1941",
+      "3/1941",
+      "5/1941",
+      "8/1941"
+    ],
+    "correct_index": 2,
+    "user_choice": 3,
+    "explanation": "Hội nghị diễn ra từ ngày 10 đến 19/5/1941.",
+    "source_title": "Văn kiện Đảng Toàn tập (Tập 7)",
+    "source_author": "Ban Chấp hành Trung ương Đảng",
+    "source_publisher": "NXB Chính trị Quốc gia Sự thật",
+    "source_citation": "Văn kiện Đảng Toàn tập, tập 7",
+    "status": "PENDING",
+    "retry_count": 1
+  },
+  "deduct_Dien Bien Phu_0": {
+    "id": "deduct_Dien Bien Phu_0",
+    "location_name": "Lòng chảo Điện Biên Phủ",
+    "question": "Chiến dịch Điện Biên Phủ kết thúc thắng lợi hoàn toàn vào ngày nào?",
+    "options": [
+      "07/05/1954",
+      "20/07/1954",
+      "02/09/1954",
+      "19/12/1954"
+    ],
+    "correct_index": 0,
+    "user_choice": -1,
+    "explanation": "Vào lúc 17h30 ngày 07/05/1954, cứ điểm Điện Biên Phủ bị tiêu diệt hoàn toàn, tướng De Castries bị bắt sống.",
+    "source_title": "Đại cương Lịch sử Việt Nam (Tập 2)",
+    "source_author": "Viện Sử học / Bộ GD&ĐT",
+    "source_publisher": "NXB Giáo dục",
+    "source_citation": "03/1907 - 11/1907",
+    "status": "PENDING",
+    "retry_count": 1
+  },
+  "dinh_q2": {
+    "id": "dinh_q2",
+    "location_name": "Dinh Độc Lập (Sài Gòn)",
+    "question": "Chiếc xe tăng nào húc tung cánh cổng chính Dinh Độc Lập trưa ngày 30/4/1975?",
+    "options": [
+      "Xe tăng 390",
+      "Xe tăng 843",
+      "Xe tăng 985",
+      "Xe tăng 280"
+    ],
+    "correct_index": 0,
+    "user_choice": 1,
+    "explanation": "Xe tăng 390 do Trung úy Vũ Đăng Toàn chỉ huy đã húc tung cổng chính Dinh Độc Lập vào trưa 30/4/1975.",
+    "source_title": "Bảo tàng Lịch sử Quân sự Việt Nam",
+    "source_author": "Viện Sử học / NXB Chính trị Quốc gia",
+    "source_publisher": "NXB Chính trị Quốc gia Sự thật",
+    "source_citation": "Bảo tàng Lịch sử Quân sự Việt Nam",
+    "status": "PENDING",
+    "retry_count": 1
+  }
+}
